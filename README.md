@@ -19,7 +19,8 @@ OpenCV, short for Open Source Computer Vision Library, is an open-source compute
 
 In this article, we delve into OpenCV, exploring its functionalities, applications, and practical examples.
 
-OpenCV- Introduction
+OpenCV  
+Introduction
 Opencv is a huge open-source library for computer vision, machine learning, and image processing. Now, it plays a major role in real-time operation which is very important in today’s systems. By using it, one can process images and videos to identify objects, faces, or even the handwriting of a human.
 
 When it is integrated with various libraries, such as NumPy, python is capable of processing the opencv array structure for analysis. To Identify an image pattern and its various features we use vector space and perform mathematical operations on these features. 
